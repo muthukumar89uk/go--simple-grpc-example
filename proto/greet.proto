@@ -27,4 +27,4 @@ message NamesList{
 
 message MessagesList{
     repeated string messages = 1;
- };
+};
